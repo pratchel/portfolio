@@ -1,0 +1,66 @@
+.header_container {
+width:900px;margin:0 auto
+   
+   position: fixed;
+       
+
+}
+.header {
+    
+    background-repeat: no-repeat;
+    
+       height: 400
+    width: 820
+    position: fixed;
+   margin:0 
+
+}
+
+#header {width:600px; border-bottom:0px solid; color:#bcbcbc; }
+#header h1 {font-size:32px; font-weight:bold;margin-bottom:10px;margin-top: 2px;}
+#header h2 {font-size:13px; font-weight:bold; margin-bottom:12px;margin-top: 0px;color:#18af9d; }
+
+
+body {font-family:Arial, Helvetica, sans-serif; margin:20px auto 50px 50px}
+
+.frame1 {width:860px; margin:0 auto}
+
+li {list-style:none; margin:0; padding:0;}
+
+ul {padding:0}
+
+#navi {width:200px; float:left; position:fixed}
+#navi h2 {font-size:13px; font-weight:bold; margin-bottom:10px;margin-top: 0px;color:#18af9d; }
+#navi li a { padding:4px 0; display:block; border-bottom:1px;  color:#18af9d;font-size:13px; font-weight:bold;}
+
+
+#navi ul li ul li a { padding-left: 11px; border-bottom:1px ;font-size:12px; color:#6f6f6f;}
+#navi ul li ul li a:hover{color:#18af9d; }
+
+
+#footer {width:300px; float:right; color:#6f6f6f; margin-bottom:18px; padding-left: 11px;   font-size:9px; }
+
+
+#content {overflow:hidden;}
+
+#content_rechts {margin-top:70px; float:right; width:600px; padding-left:40px; padding-right:2px}
+
+h1, h2, h3, h4, h5, h6 {font-size:13px;color:#6f6f6f;}
+
+text1 {font-size:13px;color:#132224;display: block; width:600px; align-self:left}
+
+.abc { margin-top:60px;}
+
+h2 {font-weight:normal;}
+
+a {text-decoration:none; color:#6f6f6f;}
+
+a:hover{color:#18af9d; }
+
+ #editor      { white-space:pre; }
+
+
+
+
+
+
